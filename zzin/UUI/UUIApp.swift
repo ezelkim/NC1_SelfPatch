@@ -4,7 +4,7 @@
 //
 //  Created by Kim minju  on 4/15/24.
 //
-
+//나의 첫 깃허브 
 import SwiftUI
 
 @main
